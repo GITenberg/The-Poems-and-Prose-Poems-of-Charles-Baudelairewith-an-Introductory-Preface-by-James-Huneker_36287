@@ -26,6 +26,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/James_Huneker
 description: Charles Baudelaire / by James Huneker -- The flowers of evil -- Little
   poems in prose.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36287#The-Poems-and-Prose-Poems-of-Charles-Baudelairewith-an-Introductory-Preface-by-James-Huneker
 gutenberg_issued: '2011-05-31'
 gutenberg_type: Text
 identifiers:
