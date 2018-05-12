@@ -1,0 +1,44 @@
+_repo: The-Poems-and-Prose-Poems-of-Charles-Baudelairewith-an-Introductory-Preface-by-James-Huneker_36287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+  editor:
+    agent_name: Huneker, James
+    alias: Huneker, James Gibbons
+    birthdate: 1857
+    deathdate: 1921
+    gutenberg_agent_id: '1597'
+    url: http://www.gutenberg.org/2009/agents/1597
+    wikipedia: http://en.wikipedia.org/wiki/James_Huneker
+description: Charles Baudelaire / by James Huneker -- The flowers of evil -- Little
+  poems in prose.
+gutenberg_issued: '2011-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prose poems'
+- !lcc 'PQ'
+- !lcsh 'French poetry -- Translations into English'
+title: 'The Poems and Prose Poems of Charles Baudelaire
+
+  with an Introductory Preface by James Huneker'
+url: http://www.gutenberg.org/ebooks/36287
